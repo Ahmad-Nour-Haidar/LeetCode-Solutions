@@ -1,0 +1,28 @@
+# Ignore build directories and files
+cmake-build-*/
+
+# Ignore compiled executables
+*.exe
+*.out
+*.app
+
+# Ignore CLion project files
+.idea/
+
+# Ignore CLion CMake generated files
+CMakeLists.txt.user
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore any backup or temporary files
+*~
+
+# Ignore system and editor files
+.DS_Store
+.vscode/
+*.suo
+*.cproj
+*.sln
+*.sdf
+*.opensdf
+*.workspace
