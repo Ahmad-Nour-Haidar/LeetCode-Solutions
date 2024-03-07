@@ -45,9 +45,11 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * problem: https://leetcode.com/problems/reverse-linked-list/description/
- * solution: https://leetcode.com/problems/reverse-linked-list/solutions/4836727/beats-81-44-of-users-with-c-recursion/
+ *
  * Time Complexity: O(n)
  * Space Complexity: O(n)
+ *
+ * problem: https://leetcode.com/problems/reverse-linked-list/description/
+ * solution: https://leetcode.com/problems/reverse-linked-list/solutions/4836727/beats-81-44-of-users-with-c-recursion/
  *
  */
