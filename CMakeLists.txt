@@ -12,3 +12,4 @@ add_executable(2095_Delete_the_Middle_Node_of_a_Linked_List 2095_Delete_the_Midd
 add_executable(876_Middle_of_the_Linked_List 876_Middle_of_the_Linked_List.cpp)
 add_executable(202_Happy_Number 202_Happy_Number.cpp)
 add_executable(142_Linked_List_Cycle_II 142_Linked_List_Cycle_II.cpp)
+add_executable(141_Linked_List_Cycle 141_Linked_List_Cycle.cpp)
