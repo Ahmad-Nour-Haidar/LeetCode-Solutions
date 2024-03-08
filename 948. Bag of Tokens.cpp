@@ -40,8 +40,8 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * Time Complexity: O(n)
- * Space Complexity: O(n)
+ * Time Complexity: O(n * log (n) )
+ * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/bag-of-tokens/description/
  * solution: https://leetcode.com/problems/bag-of-tokens/solutions/4840783/beats-100-00-of-users-with-c-easy/

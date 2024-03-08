@@ -17,3 +17,4 @@ add_executable(1750_Minimum_Length_of_String_After_Deleting_Similar_Ends "1750. 
 add_executable(409_Longest_Palindrome "409. Longest Palindrome.cpp")
 add_executable(3005_Count_Elements_With_Maximum_Frequency "3005. Count Elements With Maximum Frequency.cpp")
 add_executable(948_Bag_of_Tokens "948. Bag of Tokens.cpp")
+add_executable(19_Remove_Nth_Node_From_End_of_List "19. Remove Nth Node From End of List.cpp")
