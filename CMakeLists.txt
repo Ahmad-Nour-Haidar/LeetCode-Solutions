@@ -30,3 +30,4 @@ add_executable(2709_Greatest_Common_Divisor_Traversal "2709. Greatest Common Div
 add_executable(997_Find_the_Town_Judge "997. Find the Town Judge")
 add_executable(201_Bitwise_AND_of_Numbers_Range "201. Bitwise AND of Numbers Range")
 add_executable(5_Longest_Palindromic_Substring "5. Longest Palindromic Substring")
+add_executable(268_Missing_Number "268. Missing Number")
