@@ -35,3 +35,4 @@ add_executable(3_Longest_Substring_Without_Repeating_Characters "3. Longest Subs
 add_executable(2402_Meeting_Rooms_III "2402. Meeting Rooms III")
 add_executable(231_Power_of_Two "231. Power of Two")
 add_executable(1642_Furthest_Building_You_Can_Reach "1642. Furthest Building You Can Reach")
+add_executable(1481_Least_Number_of_Unique_Integers_after_K_Removals "1481. Least Number of Unique Integers after K Removals")
