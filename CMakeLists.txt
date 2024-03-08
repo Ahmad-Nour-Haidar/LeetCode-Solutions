@@ -21,3 +21,4 @@ add_executable(19_Remove_Nth_Node_From_End_of_List "19. Remove Nth Node From End
 add_executable(15_3Sum "15. 3Sum")
 add_executable(2798_Number_of_Employees_Who_Met_the_Target "2798. Number of Employees Who Met the Target")
 add_executable(100_Same_Tree "100. Same Tree")
+add_executable(2864_Maximum_Odd_Binary_Number "2864. Maximum Odd Binary Number")
