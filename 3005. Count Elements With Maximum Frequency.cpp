@@ -22,7 +22,7 @@ int main() {
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
  * Time Complexity: O(n)
- * Space Complexity: O(n)
+ * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/count-elements-with-maximum-frequency/description/
  * solution: https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/4840714/beats-100-00-of-users-with-c-easy-solution/

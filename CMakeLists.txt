@@ -19,3 +19,4 @@ add_executable(3005_Count_Elements_With_Maximum_Frequency "3005. Count Elements 
 add_executable(948_Bag_of_Tokens "948. Bag of Tokens.cpp")
 add_executable(19_Remove_Nth_Node_From_End_of_List "19. Remove Nth Node From End of List.cpp")
 add_executable(15_3Sum "15. 3Sum")
+add_executable(977_Squares_of_a_Sorted_Array "977. Squares of a Sorted Array")
