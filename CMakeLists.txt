@@ -33,3 +33,4 @@ add_executable(5_Longest_Palindromic_Substring "5. Longest Palindromic Substring
 add_executable(268_Missing_Number "268. Missing Number")
 add_executable(3_Longest_Substring_Without_Repeating_Characters "3. Longest Substring Without Repeating Characters")
 add_executable(2402_Meeting_Rooms_III "2402. Meeting Rooms III")
+add_executable(231_Power_of_Two "231. Power of Two")
