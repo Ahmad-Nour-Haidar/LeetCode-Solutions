@@ -38,3 +38,4 @@ add_executable(1642_Furthest_Building_You_Can_Reach "1642. Furthest Building You
 add_executable(1481_Least_Number_of_Unique_Integers_after_K_Removals "1481. Least Number of Unique Integers after K Removals")
 add_executable(169_Majority_Element "169. Majority Element")
 add_executable(647_Palindromic_Substrings "647. Palindromic Substrings")
+add_executable(2_Add_Two_Numbers "2. Add Two Numbers")

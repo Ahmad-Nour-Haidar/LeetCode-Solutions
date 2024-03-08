@@ -35,7 +35,7 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * Time Complexity: O(n * log(n))
+ * Time Complexity: O(n^2)
  * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/palindromic-substrings/description/
