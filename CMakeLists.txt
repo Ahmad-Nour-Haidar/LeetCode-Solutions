@@ -47,3 +47,4 @@ add_executable(2149_Rearrange_Array_Elements_by_Sign "2149. Rearrange Array Elem
 add_executable(2108_Find_First_Palindromic_String_in_the_Array "2108. Find First Palindromic String in the Array")
 add_executable(2540_Minimum_Common_Value "2540. Minimum Common Value")
 add_executable(349_Intersection_of_Two_Arrays "349. Intersection of Two Arrays")
+add_executable(350_Intersection_of_Two_Arrays_II "350. Intersection of Two Arrays II")
