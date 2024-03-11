@@ -51,3 +51,5 @@ add_executable(350_Intersection_of_Two_Arrays_II "350. Intersection of Two Array
 add_executable(3002_Maximum_Size_of_a_Set_After_Removals "3002. Maximum Size of a Set After Removals")
 add_executable(344_Reverse_String "344. Reverse String")
 add_executable(263_Ugly_Number "263. Ugly Number")
+add_executable(264_Ugly_Number_II "264. Ugly Number II")
+add_executable(791_Custom_Sort_String "791. Custom Sort String")
