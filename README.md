@@ -1,8 +1,11 @@
 ---
-## profile: https://leetcode.com/Ahmad_Nour_Haidar/
+### 👋 Hello World!
 
 ---
-### 👋 Hello World!
+## 😎 Profile: https://leetcode.com/Ahmad_Nour_Haidar/
+
+---
+## ✅ Count Solved Problem: ***51***
 
 ---
 👋
@@ -13,3 +16,4 @@
 🌟
 ⚡
 💡
+😇
