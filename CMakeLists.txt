@@ -58,3 +58,4 @@ add_executable(1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List "1171. Re
 add_executable(2485_Find_the_Pivot_Integer "2485. Find the Pivot Integer")
 add_executable(930_Binary_Subarrays_With_Sum "930. Binary Subarrays With Sum")
 add_executable(238_Product_of_Array_Except_Self "238. Product of Array Except Self")
+add_executable(525_Contiguous_Array "525. Contiguous Array")
