@@ -13,13 +13,15 @@ struct ListNode {
 class Solution {
 public:
     ListNode *reverseList(ListNode *head) {
-        if (head == nullptr || head->next == nullptr) {
-            return head;
+        auto current = head;
+        ListNode *ans = nullptr;
+        while (current) {
+            auto next = current->next;
+            current->next = ans;
+            ans = current;
+            current = next;
         }
-        ListNode *reversedList = reverseList(head->next);
-        head->next->next = head;
-        head->next = nullptr;
-        return reversedList;
+        return ans;
     }
 };
 
@@ -46,10 +48,14 @@ int main() {
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
  *
+ * problem: https://leetcode.com/problems/reverse-linked-list/description/
+ *
  * Time Complexity: O(n)
  * Space Complexity: O(n)
- *
- * problem: https://leetcode.com/problems/reverse-linked-list/description/
  * solution: https://leetcode.com/problems/reverse-linked-list/solutions/4836727/beats-81-44-of-users-with-c-recursion/
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ * solution: https://leetcode.com/problems/reverse-linked-list/solutions/4904219/time-complexity-o-n-space-complexity-o-1/
  *
  */
