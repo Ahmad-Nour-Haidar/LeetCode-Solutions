@@ -30,7 +30,7 @@ private:
 
 public:
     bool isPalindrome(ListNode *head) {
-        auto *slow = head;
+        auto *slow = head; // this will be in mid of LikedList
         auto *fast = head;
         while (fast and fast->next) {
             fast = fast->next->next;
