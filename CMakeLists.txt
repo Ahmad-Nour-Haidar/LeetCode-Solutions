@@ -65,3 +65,4 @@ add_executable(1669_Merge_In_Between_Linked_Lists "1669. Merge In Between Linked
 add_executable(92_Reverse_Linked_List_II "92. Reverse Linked List II")
 add_executable(234_Palindrome_Linked_List "234. Palindrome Linked List")
 add_executable(143_Reorder_List "143. Reorder List")
+add_executable(287_Find_the_Duplicate_Number "287. Find the Duplicate Number")
