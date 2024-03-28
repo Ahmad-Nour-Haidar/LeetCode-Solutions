@@ -186,3 +186,11 @@ int dx4[4] = {1, -1, 0, 0};
 int dy4[4] = {0, 0, 1, -1};
 int dx8[8] = {1, -1, 1, -1, 1, -1, 0, 0};
 int dy8[8] = {1, -1, -1, 1, 0, 0, 1, -1};
+
+class Solution {
+    Solution() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+    }
+};
