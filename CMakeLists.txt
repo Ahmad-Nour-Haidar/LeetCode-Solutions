@@ -71,3 +71,4 @@ add_executable(442_Find_All_Duplicates_in_an_Array "442. Find All Duplicates in 
 add_executable(41_First_Missing_Positive "41. First Missing Positive")
 add_executable(713_Subarray_Product_Less_Than_K "713. Subarray Product Less Than K")
 add_executable(2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency "2958. Length of Longest Subarray With at Most K Frequency")
+add_executable(2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times "2962. Count Subarrays Where Max Element Appears at Least K Times")
