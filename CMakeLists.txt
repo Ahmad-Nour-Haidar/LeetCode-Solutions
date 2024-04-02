@@ -74,3 +74,4 @@ add_executable(2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency "2958. L
 add_executable(2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times "2962. Count Subarrays Where Max Element Appears at Least K Times")
 add_executable(2444_Count_Subarrays_With_Fixed_Bounds "2444. Count Subarrays With Fixed Bounds")
 add_executable(58_Length_of_Last_Word "58. Length of Last Word")
+add_executable(205_Isomorphic_Strings "205. Isomorphic Strings")
