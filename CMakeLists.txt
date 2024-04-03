@@ -75,3 +75,4 @@ add_executable(2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times "
 add_executable(2444_Count_Subarrays_With_Fixed_Bounds "2444. Count Subarrays With Fixed Bounds")
 add_executable(58_Length_of_Last_Word "58. Length of Last Word")
 add_executable(205_Isomorphic_Strings "205. Isomorphic Strings")
+add_executable(79_Word_Search "79. Word Search")
