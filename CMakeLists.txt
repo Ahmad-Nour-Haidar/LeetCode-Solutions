@@ -76,3 +76,4 @@ add_executable(2444_Count_Subarrays_With_Fixed_Bounds "2444. Count Subarrays Wit
 add_executable(58_Length_of_Last_Word "58. Length of Last Word")
 add_executable(205_Isomorphic_Strings "205. Isomorphic Strings")
 add_executable(79_Word_Search "79. Word Search")
+add_executable(1614_Maximum_Nesting_Depth_of_the_Parentheses "1614. Maximum Nesting Depth of the Parentheses")
