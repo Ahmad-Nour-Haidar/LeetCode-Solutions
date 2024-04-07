@@ -80,3 +80,4 @@ add_executable(1614_Maximum_Nesting_Depth_of_the_Parentheses "1614. Maximum Nest
 add_executable(1544_Make_The_String_Great "1544. Make The String Great")
 add_executable(75_Sort_Colors "75. Sort Colors")
 add_executable(1249_Minimum_Remove_to_Make_Valid_Parentheses "1249. Minimum Remove to Make Valid Parentheses")
+add_executable(678_Valid_Parenthesis_String "678. Valid Parenthesis String")
