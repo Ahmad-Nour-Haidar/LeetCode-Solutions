@@ -85,3 +85,4 @@ add_executable(1700_Number_of_Students_Unable_to_Eat_Lunch "1700. Number of Stud
 add_executable(2073_Time_Needed_to_Buy_Tickets "2073. Time Needed to Buy Tickets")
 add_executable(950_Reveal_Cards_In_Increasing_Order "950. Reveal Cards In Increasing Order")
 add_executable(402_Remove_K_Digits "402. Remove K Digits")
+add_executable(42_Trapping_Rain_Water "42. Trapping Rain Water")
