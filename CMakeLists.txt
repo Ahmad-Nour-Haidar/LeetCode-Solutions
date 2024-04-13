@@ -86,3 +86,4 @@ add_executable(2073_Time_Needed_to_Buy_Tickets "2073. Time Needed to Buy Tickets
 add_executable(950_Reveal_Cards_In_Increasing_Order "950. Reveal Cards In Increasing Order")
 add_executable(402_Remove_K_Digits "402. Remove K Digits")
 add_executable(42_Trapping_Rain_Water "42. Trapping Rain Water")
+add_executable(85_Maximal_Rectangle "85. Maximal Rectangle")
