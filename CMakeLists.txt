@@ -87,3 +87,4 @@ add_executable(950_Reveal_Cards_In_Increasing_Order "950. Reveal Cards In Increa
 add_executable(402_Remove_K_Digits "402. Remove K Digits")
 add_executable(42_Trapping_Rain_Water "42. Trapping Rain Water")
 add_executable(85_Maximal_Rectangle "85. Maximal Rectangle")
+add_executable(404_Sum_of_Left_Leaves "404. Sum of Left Leaves")
