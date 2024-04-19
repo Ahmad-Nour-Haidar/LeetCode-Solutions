@@ -86,8 +86,8 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * Time Complexity: O(n)
- * Space Complexity: O(n)
+ * Time Complexity: O(n * m)
+ * Space Complexity: O(n * m)
  *
  * problem: https://leetcode.com/problems/island-perimeter/description/
  * solution: https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/5034708/8-ms-easy-short-way/
