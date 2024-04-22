@@ -48,8 +48,8 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * Time Complexity: O(n * m)
- * Space Complexity: O(n * m)
+ * Time Complexity: O(E + V)
+ * Space Complexity: O(E + V)
  *
  * problem: https://leetcode.com/problems/find-if-path-exists-in-graph/description/
  * solution: https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/5055386/beats-80-84-of-users-with-c/
