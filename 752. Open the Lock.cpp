@@ -64,10 +64,10 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * Time Complexity: O(E + V)
- * Space Complexity: O(E + V)
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
  *
- * problem: https://leetcode.com/problems/find-if-path-exists-in-graph/description/
- * solution: https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/5055386/beats-80-84-of-users-with-c/
+ * problem: https://leetcode.com/problems/open-the-lock/description/
+ * solution: https://leetcode.com/problems/open-the-lock/solutions/5057606/beats-92-41-of-users-with-c/
  *
  */
