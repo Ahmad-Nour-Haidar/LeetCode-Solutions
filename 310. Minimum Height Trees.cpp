@@ -54,7 +54,7 @@ int main() {
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
  * Time Complexity: O(n)
- * Space Complexity: O(n)
+ * Space Complexity: O(E + V)
  *
  * problem: https://leetcode.com/problems/minimum-height-trees/description/
  * solution: https://leetcode.com/problems/minimum-height-trees/solutions/5063411/beats-98-82-of-users-with-c/
