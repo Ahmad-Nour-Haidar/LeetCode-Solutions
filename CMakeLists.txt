@@ -98,3 +98,4 @@ add_executable(1971_Find_if_Path_Exists_in_Graph "1971. Find if Path Exists in G
 add_executable(752_Open_the_Lock "752. Open the Lock")
 add_executable(310_Minimum_Height_Trees "310. Minimum Height Trees")
 add_executable(1137_N_th_Tribonacci_Number "1137. N-th Tribonacci Number")
+add_executable(2370_Longest_Ideal_Subsequence "2370. Longest Ideal Subsequence")
