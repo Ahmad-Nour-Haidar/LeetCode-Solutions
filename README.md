@@ -5,7 +5,7 @@
 ## 😎 Profile: https://leetcode.com/Ahmad_Nour_Haidar/
 
 ---
-## ✅ Count Solved Problems: ```100```
+## ✅ Count Solved Problems: ```102```
 
 ---
 ❤
