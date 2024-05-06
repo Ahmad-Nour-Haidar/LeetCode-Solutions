@@ -110,3 +110,4 @@ add_executable(2441_Largest_Positive_Integer_That_Exists_With_Its_Negative "2441
 add_executable(165_Compare_Version_Numbers "165. Compare Version Numbers")
 add_executable(881_Boats_to_Save_People "881. Boats to Save People")
 add_executable(237_Delete_Node_in_a_Linked_List "237. Delete Node in a Linked List")
+add_executable(2487_Remove_Nodes_From_Linked_List "2487. Remove Nodes From Linked List")
