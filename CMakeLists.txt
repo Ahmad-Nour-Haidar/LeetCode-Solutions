@@ -114,3 +114,4 @@ add_executable(2487_Remove_Nodes_From_Linked_List "2487. Remove Nodes From Linke
 add_executable(2816_Double_a_Number_Represented_as_a_Linked_List "2816. Double a Number Represented as a Linked List")
 add_executable(506_Relative_Ranks "506. Relative Ranks")
 add_executable(3075_Maximize_Happiness_of_Selected_Children "3075. Maximize Happiness of Selected Children")
+add_executable(786_K_th_Smallest_Prime_Fraction "786. K-th Smallest Prime Fraction")
