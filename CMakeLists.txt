@@ -117,3 +117,4 @@ add_executable(3075_Maximize_Happiness_of_Selected_Children "3075. Maximize Happ
 add_executable(786_K_th_Smallest_Prime_Fraction "786. K-th Smallest Prime Fraction")
 add_executable(857_Minimum_Cost_to_Hire_K_Workers "857. Minimum Cost to Hire K Workers")
 add_executable(2373_Largest_Local_Values_in_a_Matrix "2373. Largest Local Values in a Matrix")
+add_executable(861_Score_After_Flipping_Matrix "861. Score After Flipping Matrix")
