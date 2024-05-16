@@ -120,3 +120,4 @@ add_executable(2373_Largest_Local_Values_in_a_Matrix "2373. Largest Local Values
 add_executable(861_Score_After_Flipping_Matrix "861. Score After Flipping Matrix")
 add_executable(1219_Path_with_Maximum_Gold "1219. Path with Maximum Gold")
 add_executable(2812_Find_the_Safest_Path_in_a_Grid "2812. Find the Safest Path in a Grid")
+add_executable(2331_Evaluate_Boolean_Binary_Tree "2331. Evaluate Boolean Binary Tree")
