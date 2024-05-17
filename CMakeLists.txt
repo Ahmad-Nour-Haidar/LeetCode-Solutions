@@ -121,3 +121,4 @@ add_executable(861_Score_After_Flipping_Matrix "861. Score After Flipping Matrix
 add_executable(1219_Path_with_Maximum_Gold "1219. Path with Maximum Gold")
 add_executable(2812_Find_the_Safest_Path_in_a_Grid "2812. Find the Safest Path in a Grid")
 add_executable(2331_Evaluate_Boolean_Binary_Tree "2331. Evaluate Boolean Binary Tree")
+add_executable(1325_Delete_Leaves_With_a_Given_Value "1325. Delete Leaves With a Given Value")
