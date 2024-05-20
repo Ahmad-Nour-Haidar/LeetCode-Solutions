@@ -124,3 +124,4 @@ add_executable(2331_Evaluate_Boolean_Binary_Tree "2331. Evaluate Boolean Binary 
 add_executable(1325_Delete_Leaves_With_a_Given_Value "1325. Delete Leaves With a Given Value")
 add_executable(979_Distribute_Coins_in_Binary_Tree "979. Distribute Coins in Binary Tree")
 add_executable(3068_Find_the_Maximum_Sum_of_Node_Values "3068. Find the Maximum Sum of Node Values")
+add_executable(1863_Sum_of_All_Subset_XOR_Totals "1863. Sum of All Subset XOR Totals")
