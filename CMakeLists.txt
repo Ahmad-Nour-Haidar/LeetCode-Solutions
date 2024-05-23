@@ -127,3 +127,4 @@ add_executable(3068_Find_the_Maximum_Sum_of_Node_Values "3068. Find the Maximum 
 add_executable(1863_Sum_of_All_Subset_XOR_Totals "1863. Sum of All Subset XOR Totals")
 add_executable(78_Subsets "78. Subsets")
 add_executable(131_Palindrome_Partitioning "131. Palindrome Partitioning")
+add_executable(2597_The_Number_of_Beautiful_Subsets "2597. The Number of Beautiful Subsets")
