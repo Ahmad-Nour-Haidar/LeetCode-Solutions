@@ -172,14 +172,13 @@ void printArray(Template *array, int length) {
 //     return multi(multi(fact[n], modInverse(fact[r])), modInverse(fact[n - r]));
 // }
 
-bool isPalindrome(string s) {
-    int n = s.length();
-    for (int i = 0; i < n / 2; ++i) {
-        if (s[i] not_eq s[n - i - 1]) {
-            return false;
-        }
+bool isPalindrome(const string &s) {
+    int l = 0, r = s.length() - 1;
+    while (l <= r and s[l] == s[r]) {
+        l++;
+        r--;
     }
-    return true;
+    return l >= r;
 }
 
 int dx4[4] = {1, -1, 0, 0};

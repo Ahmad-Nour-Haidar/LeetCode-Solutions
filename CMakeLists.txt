@@ -126,3 +126,4 @@ add_executable(979_Distribute_Coins_in_Binary_Tree "979. Distribute Coins in Bin
 add_executable(3068_Find_the_Maximum_Sum_of_Node_Values "3068. Find the Maximum Sum of Node Values")
 add_executable(1863_Sum_of_All_Subset_XOR_Totals "1863. Sum of All Subset XOR Totals")
 add_executable(78_Subsets "78. Subsets")
+add_executable(131_Palindrome_Partitioning "131. Palindrome Partitioning")
