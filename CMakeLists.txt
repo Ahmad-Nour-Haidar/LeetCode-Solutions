@@ -128,3 +128,4 @@ add_executable(1863_Sum_of_All_Subset_XOR_Totals "1863. Sum of All Subset XOR To
 add_executable(78_Subsets "78. Subsets")
 add_executable(131_Palindrome_Partitioning "131. Palindrome Partitioning")
 add_executable(2597_The_Number_of_Beautiful_Subsets "2597. The Number of Beautiful Subsets")
+add_executable(1255_Maximum_Score_Words_Formed_by_Letters "1255. Maximum Score Words Formed by Letters")
