@@ -193,3 +193,20 @@ class Solution {
         cout.tie(nullptr);
     }
 };
+
+/*
+ # Intuition 🧠
+<!-- Describe your first thoughts on how to solve this problem. -->
+
+# Approach 🛤️
+<!-- Describe your approach to solving the problem. -->
+
+# Complexity ⏱️
+- Time complexity: $$O(2^n)$$
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity: $$O(2^n)$$
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+- [My Submission](https://leetcode.com/problems/word-break-ii/submissions/1267109243/)
+# Code 👨🏻‍💻
+ * */
