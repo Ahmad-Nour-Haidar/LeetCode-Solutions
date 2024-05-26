@@ -37,9 +37,9 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 ## ⚒️ Languages & Tools
 
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=github,git" alt="GitHub, Git" style="display: inline-block;"/>
+    <img src="https://skillicons.dev/icons?i=github,git" alt="GitHub, Git" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=cpp,clion,cmake," alt="C++, Clion, Cmake" style="display: inline-block;"/>
+    <img src="https://skillicons.dev/icons?i=cpp,clion,cmake," alt="C++, Clion, Cmake" />
 </div>
 
 ## 🤝 Contributing
