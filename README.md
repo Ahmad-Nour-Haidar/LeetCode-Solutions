@@ -3,7 +3,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ahmad-Nour-Haidar/leetcode-solutions?color=yellow)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Ahmad-Nour-Haidar/leetcode-solutions?color=blue)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/network)
 [![GitHub issues](https://img.shields.io/github/issues/Ahmad-Nour-Haidar/leetcode-solutions)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/issues)
-[![GitHub license](https://img.shields.io/github/license/Ahmad-Nour-Haidar/leetcode-solutions)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Ahmad-Nour-Haidar/leetcode-solutions)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/graphs/contributors)
 
 ## 📜 Table of Contents
@@ -31,9 +30,9 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 ## ⚒️ Languages & Tools
 
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++, Java, Python" style="display: inline-block;"/>
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="display: inline-block;"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=github,vscode,git" alt="GitHub, VSCode, Git" style="display: inline-block;"/>
+    <img src="https://skillicons.dev/icons?i=github,git,clion,cmake," alt="GitHub, Clion" style="display: inline-block;"/>
 </div>
 
 ## 🤝 Contributing
@@ -54,12 +53,6 @@ Contributions are welcome! If you have a better solution or a different approach
     git push origin feature-branch
     ```
 5. **Create a pull request**.
-
----
-
-// <p align="center">
-    Made with ❤️ by [Ahmad Nour Haidar](https://github.com/Ahmad-Nour-Haidar)
-// </p>
 
 
 
