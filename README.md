@@ -13,7 +13,6 @@
 - [Features](#-features)
 - [Languages & Tools](#-languages--tools)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🚀 Introduction
 
@@ -22,19 +21,16 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 ## 🎖️ Badges
 
 <div align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api/badge?username=Ahmad_Nour_Haidar&theme=light&border=true&width=200&height=200" alt="LeetCode Badge" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" />
 </div>
 
 ## ✨ Features
 
-- Organized by problem categories.
 - Clear and concise solutions with explanations.
-- Solutions in multiple programming languages.
-- Regular updates with new solutions.
 
 ## ⚒️ Languages & Tools
 
-<div style="text-align: center;">
+<div align=center>
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++, Java, Python" style="display: inline-block;"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=github,vscode,git" alt="GitHub, VSCode, Git" style="display: inline-block;"/>
@@ -44,21 +40,26 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 
 Contributions are welcome! If you have a better solution or a different approach to any problem, feel free to open a pull request. Please make sure to follow the contribution guidelines:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-branch`.
-5. Open a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+1. **Fork the repository**.
+2. **Create a new branch**:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. **Make your changes and commit them**:
+    ```bash
+    git commit -m "Description of the feature"
+    ```
+4. **Push to the branch**:
+    ```bash
+    git push origin feature-branch
+    ```
+5. **Create a pull request**.
 
 ---
 
-<p align="center">
+// <p align="center">
     Made with ❤️ by [Ahmad Nour Haidar](https://github.com/Ahmad-Nour-Haidar)
-</p>
+// </p>
 
 
 
