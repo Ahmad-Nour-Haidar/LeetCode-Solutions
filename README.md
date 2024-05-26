@@ -63,24 +63,6 @@ Contributions are welcome! If you have a better solution or a different approach
     ```
 5. **Create a pull request**.
 
-
-
-
-
-
-
-
-
----
-# 👋 Hello World!
-
----
-## 😎 Profile: https://leetcode.com/Ahmad_Nour_Haidar/
-
----
-## ✅ Count Solved Problems: ```126```
-
----
 ❤
 👋
 ‍✅
