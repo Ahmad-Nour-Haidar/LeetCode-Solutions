@@ -202,11 +202,12 @@ class Solution {
 <!-- Describe your approach to solving the problem. -->
 
 # Complexity ⏱️
-- Time complexity: $$O(2^n)$$
+- Time complexity: $$O(n)$$
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
-- Space complexity: $$O(2^n)$$
+- Space complexity: $$O(n)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-- [My Submission](https://leetcode.com/problems/word-break-ii/submissions/1267109243/)
+- [My Submission](https://leetcode.com/problems/student-attendance-record-ii/submissions/1268553550/)
 # Code 👨🏻‍💻
+```cpp
  * */
