@@ -7,11 +7,12 @@
 
 ## 📜 Table of Contents
 
-- [Introduction](#-introduction)
-- [Badges](#-badges)
-- [Features](#-features)
-- [Languages & Tools](#-languages--tools)
-- [Contributing](#-contributing)
+- [🚀 Introduction](#-introduction)
+- [🎖️ Badges](#-badges)
+- [📊 Count of Solved Problems](#-count-of-solved-problems)
+- [✨ Features](#-features)
+- [⚒️ Languages & Tools](#-languages--tools)
+- [🤝 Contributing](#-contributing)
 
 ## 🚀 Introduction
 
@@ -23,6 +24,12 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" />
 </div>
 
+## 📊 Count of Solved Problems
+
+<div align="center">
+    <img src="https://leetcode-stats-six.vercel.app/?username=Ahmad_Nour_Haidar&theme=dark" alt="Count of Solved Problems" />
+</div>
+
 ## ✨ Features
 
 - Clear and concise solutions with explanations.
@@ -30,9 +37,9 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 ## ⚒️ Languages & Tools
 
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="display: inline-block;"/>
+    <img src="https://skillicons.dev/icons?i=github,git" alt="GitHub, Git" style="display: inline-block;"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=github,git,clion,cmake," alt="GitHub, Clion" style="display: inline-block;"/>
+    <img src="https://skillicons.dev/icons?i=cpp,clion,cmake," alt="C++, Clion, Cmake" style="display: inline-block;"/>
 </div>
 
 ## 🤝 Contributing
