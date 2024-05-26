@@ -1,5 +1,7 @@
 # LeetCode Solutions Repository
 
+### [View my LeetCode profile](https://leetcode.com/Ahmad_Nour_Haidar/)
+
 [![GitHub stars](https://img.shields.io/github/stars/Ahmad-Nour-Haidar/leetcode-solutions?color=yellow)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Ahmad-Nour-Haidar/leetcode-solutions?color=blue)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/network)
 [![GitHub issues](https://img.shields.io/github/issues/Ahmad-Nour-Haidar/leetcode-solutions)](https://github.com/Ahmad-Nour-Haidar/leetcode-solutions/issues)
