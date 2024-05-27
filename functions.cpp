@@ -196,7 +196,6 @@ class Solution {
 
 /*
 
-- [Github](https://github.com/Ahmad-Nour-Haidar)
  # Intuition 🧠
 <!-- Describe your first thoughts on how to solve this problem. -->
 
@@ -210,6 +209,7 @@ class Solution {
 - Space complexity: $$O(n)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 - [My Submission](https://leetcode.com/problems/student-attendance-record-ii/submissions/1268553550/)
+- [Github](https://github.com/Ahmad-Nour-Haidar)
 # Code 👨🏻‍💻
 ```cpp
  * */

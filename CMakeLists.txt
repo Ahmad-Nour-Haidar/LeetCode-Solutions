@@ -131,3 +131,4 @@ add_executable(2597_The_Number_of_Beautiful_Subsets "2597. The Number of Beautif
 add_executable(1255_Maximum_Score_Words_Formed_by_Letters "1255. Maximum Score Words Formed by Letters")
 add_executable(140_Word_Break_II "140. Word Break II")
 add_executable(552_Student_Attendance_Record_II "552. Student Attendance Record II")
+add_executable(1608_Special_Array_With_X_Elements_Greater_Than_or_Equal_X "1608. Special Array With X Elements Greater Than or Equal X")
