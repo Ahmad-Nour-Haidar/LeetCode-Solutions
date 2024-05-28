@@ -22,7 +22,7 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 
 ## 🎖️ Badges
 
-![](https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border)
+![](https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border){:style='width:100px'}
 <div align="center">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" />
 </div>
