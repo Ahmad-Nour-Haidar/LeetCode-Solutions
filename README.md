@@ -22,6 +22,7 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 
 ## 🎖️ Badges
 
+[A](https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border)
 <div align="center">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" />
 </div>
