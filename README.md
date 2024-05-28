@@ -10,8 +10,7 @@
 ## 📜 Table of Contents
 
 - [🚀 Introduction](#-introduction)
-- [🎖️ Badges](#-badges---count-of-solved-problems)
-- [📊 Count of Solved Problems](#-count-of-solved-problems)
+- [🎖️ Badges 📊 Count of Solved Problems](#-badges---count-of-solved-problems)
 - [✨ Features](#-features)
 - [⚒️ Languages & Tools](#-languages--tools)
 - [🤝 Contributing](#-contributing)
