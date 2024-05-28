@@ -10,7 +10,7 @@
 ## 📜 Table of Contents
 
 - [🚀 Introduction](#-introduction)
-- [🎖️ Badges](#-badges)
+- [🎖️ Badges](#-badges---count-of-solved-problems)
 - [📊 Count of Solved Problems](#-count-of-solved-problems)
 - [✨ Features](#-features)
 - [⚒️ Languages & Tools](#-languages--tools)
@@ -20,7 +20,7 @@
 
 Welcome to my LeetCode Solutions Repository! Here you will find my solutions to various LeetCode problems. This repository is a collection of my journey through solving algorithmic challenges and improving my coding skills.
 
-## 🎖️ Badges
+## 🎖️ Badges  📊 Count of Solved Problems
 
 <div style="display: flex; flex-wrap: wrap; gap: 50px;">
 
@@ -28,20 +28,6 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 
 <img src="https://leetcode-stats-six.vercel.app/?username=Ahmad_Nour_Haidar&theme=dark" alt="Count of Solved Problems" >
 
-</div>
-
-<div align="center">
-
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" />
-  
-    <img src="https://leetcode-stats-six.vercel.app/?username=Ahmad_Nour_Haidar&theme=dark" alt="Count of Solved Problems" />
-
-</div>
-
-## 📊 Count of Solved Problems
-
-<div align="center">
-    <img src="https://leetcode-stats-six.vercel.app/?username=Ahmad_Nour_Haidar&theme=dark" alt="Count of Solved Problems" />
 </div>
 
 ## ✨ Features
