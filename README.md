@@ -22,6 +22,14 @@ Welcome to my LeetCode Solutions Repository! Here you will find my solutions to 
 
 ## 🎖️ Badges
 
+<div style="display: flex; flex-wrap: wrap; gap: 50px;">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" >
+
+<img src="https://leetcode-stats-six.vercel.app/?username=Ahmad_Nour_Haidar&theme=dark" alt="Count of Solved Problems" >
+
+</div>
+
 <div align="center">
 
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ahmad_Nour_Haidar&theme=dark&border=border" alt="LeetCode Badge" />
