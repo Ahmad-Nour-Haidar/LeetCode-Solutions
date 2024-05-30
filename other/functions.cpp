@@ -196,7 +196,7 @@ class Solution {
 
 /*
 
- # Intuition 🧠
+ # Intuition 🧠 👋 ✅ 🔥
 <!-- Describe your first thoughts on how to solve this problem. -->
 
 # Approach 🛤️
@@ -208,7 +208,7 @@ class Solution {
 
 - Space complexity: $$O(n)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-- [My Submission](https://leetcode.com/problems/student-attendance-record-ii/submissions/1268553550/)
+- [My Submission]()
 - [Github](https://github.com/Ahmad-Nour-Haidar)
 # Code 👨🏻‍💻
 ```cpp
