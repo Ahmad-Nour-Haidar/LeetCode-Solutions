@@ -4,9 +4,14 @@ using namespace std;
 
 class Solution {
 public:
+    Solution() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+    }
+
     void reverseString(vector<char> &s) {
-        int len = s.size();
-        int l = 0, r = len - 1;
+        int l = 0, r = s.size() - 1;
         while (l < r) {
             char c = s[l];
             s[l] = s[r];
@@ -28,6 +33,6 @@ int main() {
  * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/reverse-string/description/
- * solution: https://leetcode.com/problems/reverse-string/submissions/1198868030/
+ * solution: https://leetcode.com/problems/reverse-string/solutions/5247205/beats-93-93-of-users-with-c/
  *
  */
