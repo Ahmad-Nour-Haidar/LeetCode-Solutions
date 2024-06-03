@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 # List of directories to process
-set(DIRECTORIES "1 -- 99" "100 -- 999" "1000 -- 9999" "other")
+set(DIRECTORIES "1 -- 9" "10 -- 99" "100 -- 999" "1000 -- 9999" "other")
 
 # Loop over each directory
 foreach(DIR ${DIRECTORIES})
