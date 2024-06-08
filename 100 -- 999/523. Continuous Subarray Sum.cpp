@@ -31,7 +31,7 @@ public:
 
 int main() {
 
-    vector<int> v = {5, 0, 0, 0};D
+    vector<int> v = {5, 0, 0, 0};
     int k = 3;
     Solution().checkSubarraySum(v, k);
 
