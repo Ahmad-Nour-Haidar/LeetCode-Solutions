@@ -15,8 +15,7 @@ public:
         while (mid <= r) {
             if (nums[mid] == 0) {
                 swap(nums[mid], nums[l]);
-                l++;
-                mid++;
+                l++; mid++;
             } else if (nums[mid] == 1) {
                 mid++;
             } else {
@@ -39,6 +38,6 @@ int main() {
  * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/sort-colors/description/
- * solution: https://leetcode.com/problems/sort-colors/solutions/4977957/beats-100-00-of-users-with-c-one-pass/
+ * solution: https://leetcode.com/problems/sort-colors/solutions/5299732/beats-100-00-of-users-with-c/
  *
  */
