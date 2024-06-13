@@ -33,6 +33,6 @@ int main() {
  * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
- * solution: https://leetcode.com/problems/height-checker/solutions/5287585/beats-100-00-of-users-with-c/
+ * solution: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5307356/beats-100-00-of-users-with-c/
  *
  */
