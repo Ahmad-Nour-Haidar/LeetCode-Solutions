@@ -40,6 +40,6 @@ int main() {
  * Space Complexity: O(1)
  *
  * problem: https://leetcode.com/problems/sum-of-square-numbers/description/
- * solution: https://leetcode.com/problems/sum-of-square-numbers/solutions/5325830/beats-100-00/i
+ * solution: https://leetcode.com/problems/sum-of-square-numbers/solutions/5325830/beats-100-00/
  *
  */
