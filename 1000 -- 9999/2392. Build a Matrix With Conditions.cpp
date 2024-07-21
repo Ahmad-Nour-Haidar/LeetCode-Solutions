@@ -74,8 +74,8 @@ int main() {
 /**
  * profile: https://leetcode.com/Ahmad_Nour_Haidar/
  *
- * Time Complexity: O(n * log(n))
- * Space Complexity: O(n)
+ * Time Complexity: O(k + n + m)
+ * Space Complexity: O(k + n + m)
  *
  * problem: https://leetcode.com/problems/build-a-matrix-with-conditions/description/
  * solution: https://leetcode.com/problems/build-a-matrix-with-conditions/solutions/5510178/beats-94-37
